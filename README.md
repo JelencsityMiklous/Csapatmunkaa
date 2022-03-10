@@ -1,4 +1,4 @@
 # Csapatmunkaa
 # Follárdt Áron
-# buta Kevin
+# Esses Kevin
 # Jelencsity Miklós
