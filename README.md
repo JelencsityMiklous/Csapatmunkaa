@@ -1,4 +1,4 @@
 # Csapatmunkaa
-# Forrar Áron
+# Forrar Árn
 # Esses Kevin
 # Jelencsity Miklós
