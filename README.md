@@ -1,5 +1,4 @@
 # Csapatmunkaa
-# Forrar Árn
+# Follárdt Áron
 # Esses Kevin
 # Jelencsity Miklós
-# tely
