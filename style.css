@@ -1,13 +1,12 @@
-<<<<<<< HEAD
-head {
-  display: block;
-  margin: 8px;
-}
 #alma{
-  background-color;:black
+  background-color:black;
 }
-
-
-=======
-body{background-color:turquoise}
->>>>>>> 599679fc554c9795f4b4e3d43c9bf2fde22aeaa1
+menu {
+  display: block;
+  list-style-type: disc;
+  margin-block-start:25px;
+  margin-block-end: 25px;
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
+  padding-inline-start: 40px;
+}
