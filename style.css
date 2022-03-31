@@ -1,12 +1,17 @@
-#alma{
-  background-color:black;
+table, th, td {
+  border: 100px solid;
 }
-menu {
-  display: block;
-  list-style-type: disc;
-  margin-block-start:25px;
-  margin-block-end: 25px;
-  margin-inline-start: 10px;
-  margin-inline-end: 10px;
-  padding-inline-start: 40px;
+table {
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}
+td {
+  text-align: center;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
 }
