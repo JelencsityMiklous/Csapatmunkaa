@@ -6,12 +6,40 @@
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   -webkit-user-select: none;
+  
   user-select: none;
 
 }
 
 body{
-
-   background-color: #f3f9f6;
-
+   background-color: #80127a;
+}
+.wrapper{
+  display: flex;
+  position: absolute;
+}
+.wrapper .sidebar{
+  width: 25em; 
+  height: 961px;
+  background: #ffffff;
+  padding: 2em 0em;
+  position: absolute;
+  z-index: -2;
+}
+.wrapper .sidebar{
+  color: rgb(255, 255, 255);
+  margin-bottom: 40px;
+}
+.wrapper .sidebar ul li{
+  padding: 15px;
+  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  border-top: 1px solid rgba(255,255,255,0.05);
+}    
+.wrapper .sidebar ul li a{
+  color: #d0cfd6;
+  display: block;
+}
+.wrapper .sidebar ul li a .fas{
+  width: 25px;
 }
