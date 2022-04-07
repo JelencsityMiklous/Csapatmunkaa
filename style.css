@@ -12,7 +12,8 @@
 }
 
 body{
-   background-color: #80127a;
+   background-image:url();
+   background-color:white;
 }
 .wrapper{
   display: flex;
