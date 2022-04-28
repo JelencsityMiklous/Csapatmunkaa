@@ -8,12 +8,11 @@
   -webkit-user-select: none;
   
   user-select: none;
-
 }
-
 body{
    background-image:url();
    background-color:white;
+   font-size:1.5em;
 }
 .menu{
   display: flex;
@@ -23,7 +22,7 @@ body{
   width: 25em; 
   height: 961px;
   background: #ffffff;
-  padding: 2em 0em;
+  padding:  2em 0em;
   position: absolute;
   z-index: -2;
 }
