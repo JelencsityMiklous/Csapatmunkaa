@@ -10,3 +10,7 @@ Leggyakrabban szereplő számok:
 3-218 db
 1-209 db
 29-208 db
+Leghosszabb számsor :
+1 8 33 34 35
+12 17 71 72 73
+24 75 83 84 85
