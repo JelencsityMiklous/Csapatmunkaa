@@ -15,11 +15,11 @@ body{
    background-image:url();
    background-color:white;
 }
-.wrapper{
+.menu{
   display: flex;
   position: absolute;
 }
-.wrapper .sidebar{
+.menu .oldal_vonal{
   width: 25em; 
   height: 961px;
   background: #ffffff;
@@ -27,20 +27,23 @@ body{
   position: absolute;
   z-index: -2;
 }
-.wrapper .sidebar{
+.menu .oldal_vonal{
   color: rgb(255, 255, 255);
   margin-bottom: 40px;
 }
-.wrapper .sidebar ul li{
+.menu .oldal_vonal ul li{
   padding: 15px;
   border-bottom: 1px solid #ffffff;
   border-bottom: 1px solid rgba(0,0,0,0.05);
   border-top: 1px solid rgba(255,255,255,0.05);
 }    
-.wrapper .sidebar ul li a{
+.menu .oldal_vonal ul li a{
   color: #d0cfd6;
   display: block;
 }
-.wrapper .sidebar ul li a .fas{
+.menu .oldal_vonal ul li a .fas{
   width: 25px;
+}
+#menu{
+  background-color:white;
 }
