@@ -14,3 +14,4 @@ Leghosszabb számsor :
 1 8 33 34 35
 12 17 71 72 73
 24 75 83 84 85
+Leghasonlobb számsor
