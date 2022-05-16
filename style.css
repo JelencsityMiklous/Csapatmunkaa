@@ -1,20 +1,27 @@
-body{
-  background-image:url();
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-attachment:fixed;
-}
-<<<<<<< HEAD
-=======
-#menu ,#Korábbi_sorsolások, #Leggyakoribb_számok , #Leghasonlóbb_számok , #Leghoszabb_sorozatok_számsorban , #Legkisebb_összegű_számsorok , #Grafikonok , #Érdekes_történetek{
-  background-color:rgba(145, 144, 140, 20%); 
+a:link, a:visited{
+  color: rgb(163, 157, 157);
+  text-decoration:none;
 }
 #menu{
-  text-align
-  text-decoration
-  text-shadow
-  text-decoration-style
-
+  width: 300px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: auto;
+  z-index: 999;
+  transition: all 0.3s;
+  background-color: rgb(10, 10, 10);
+  border-style: ridge;
+  color: white;
+  font-size: 25px;
 }
-asdsadsadsadsadsa
->>>>>>> 4e4d4608d7251e582032d7372d9d3009725edc4e
+body{
+  margin-left: 28%;
+}
+#tartalom{
+  font-size: 2.5em;
+}
+p{
+  font-size: 3em;
+}
