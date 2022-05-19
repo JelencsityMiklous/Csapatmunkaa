@@ -19,10 +19,25 @@ a:link, a:visited{
 body{
   margin-left: 28%;
 }
-#tartalom{
+#szoveg{
   font-size: 2.5em;
 }
 p{
   font-size: 3em;
 }
+<<<<<<< HEAD
 
+=======
+body{
+  margin-left: 28%;
+}
+#szoveg{
+  font-size: 2.5em;
+}
+p{
+  font-size: 3em;
+}
+h2{
+  font-size: 5em;
+}
+>>>>>>> 5e3f0ea9deebfbc363151d3ea99049bf63c36830
