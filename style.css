@@ -11,7 +11,7 @@ a:link, a:visited{
   height: auto;
   z-index: 999;
   transition: all 0.3s;
-  background-color: rgb(10, 10, 10);
+  background-color: rgb(54, 50, 50);
   border-style: ridge;
   color: white;
   font-size: 25px;
@@ -25,4 +25,4 @@ body{
 p{
   font-size: 3em;
 }
-#A_kevin_csinálta_AnyDesken_keresztül_mivel_nem_működött_neki_a_Visual_Studio_Code
+
