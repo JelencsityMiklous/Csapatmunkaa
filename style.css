@@ -19,10 +19,21 @@ a:link, a:visited{
 body{
   margin-left: 28%;
 }
-#tartalom{
+#szoveg{
   font-size: 2.5em;
 }
 p{
   font-size: 3em;
 }
-#A_kevin_csinálta_AnyDesken_keresztül_mivel_nem_működött_neki_a_Visual_Studio_Code
+body{
+  margin-left: 28%;
+}
+#szoveg{
+  font-size: 2.5em;
+}
+p{
+  font-size: 3em;
+}
+h2{
+  font-size: 5em;
+}
