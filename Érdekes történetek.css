@@ -20,13 +20,13 @@ a:link, a:visited{
     margin-left: 28%;
   }
   #szoveg{
-    font-size: 1em;
+    font-size: 2em;
   }
   p{
-    font-size: 1em;
+    font-size: 2em;
   }
   h2{
-    font-size: 1em;
+    font-size: 2em;
   }
   a:hover{
     background-color: rgb(119, 128, 117);
