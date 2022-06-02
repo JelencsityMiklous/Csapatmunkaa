@@ -5,9 +5,9 @@ a:link, a:visited{
   #menu{
     width: 300px;
     position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
+    top: 10;
+    left: 10;
+    bottom: 10;
     height: auto;
     z-index: 999;
     transition: all 0.3s;
